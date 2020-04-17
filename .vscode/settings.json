@@ -1,0 +1,5 @@
+{
+    "python.venvPath": "C:\\Devel\\virtual_environments\\ps_django_models",
+    "python.pythonPath": "C:\\Devel\\virtual_environments\\ps_django_models\\venv\\Scripts",
+    "python.linting.pylintArgs": ["--load-plugins=pylint_django",]
+}
